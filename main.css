@@ -32,4 +32,8 @@ input {
     font-family: monospace;
     color: aliceblue;
 
+
+}
+button{
+    background-color: rgb(57, 206, 144);
 }
