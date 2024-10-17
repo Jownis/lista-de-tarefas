@@ -1,0 +1,35 @@
+body{
+    background-color: #1c1c1c;
+    color: aliceblue;
+    font-family: monospace;
+    padding: 30px;
+}
+
+.title {
+    font-size: 48px;
+    color: aqua;
+    
+}
+.list-iten {
+    margin-bottom: 100px;
+    font-size: 28px;
+}
+input {
+    height: 18px;
+    background-color: transparent;
+    color: white;
+    border-color: rgb(57, 206, 144);
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 10px;
+}
+.task-button {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: darkgreen;
+    border-width: 0px;
+    font-weight: bold;
+    font-family: monospace;
+    color: aliceblue;
+
+}
